@@ -1,0 +1,6 @@
+---
+- name: geerlingguy.dotfiles
+- name: geerlingguy.homebrew
+- name: sicruse.powerline-fonts
+- name: markosamuli.pyenv
+# - name: geerlingguy.mas
