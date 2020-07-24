@@ -30,6 +30,20 @@ $ sudo chown john -R g+w $(brew --prefix)/*
 $ brew install ansible
 ```
 
+### This playbook (main.yml) does the following as configured in this repo:
+
+  1. Install applications via Homebrew (including Casks) specified in default_config.yml
+  2. Install dotfiles
+  3. Install powerline-fonts
+  4. Install pyenv
+  5. Install Mac Apple Store Apps specified in default_config.yml
+  6. Setup sudoers
+  7. Configure Terminal
+  8. Setup Oh My Zsh
+  9. Configure OSX settings
+  10. Install Extra Packages (e.g. pip modules, npm modules)
+
+
 ### Run this ansible playbook
   1. Clone this repository to your local drive.
   2. Run `$ ansible-galaxy install -r requirements.yml` inside this directory to install required Ansible roles.
