@@ -16,7 +16,7 @@ Need sudo to install some packages (admin on mac is not needed)
 
 ### Install Brew as admin account and apply proper permissions
 
-```
+```console
 $ su - macadmin
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 $ brew doctor
