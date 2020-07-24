@@ -102,17 +102,17 @@ Finally, there are a few other preferences and settings added on for various app
 2. Install AWS CLI v2
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
 
-3. Config aws-mfa
+3. Configure aws-mfa
 
 4. Install [Sublime Package Manager](http://sublime.wbond.net/installation).
 
-5. Install QNAP QVR Client
+5. Set JJG-Term as the default Terminal theme (it's installed, but not set as default automatically).
 
-6. Set JJG-Term as the default Terminal theme (it's installed, but not set as default automatically).
-
-7. Install App Store apps
-* To Do
+6. Install App Store apps
 * iMovie
+* Microsoft Remote Desktop
+* Microsoft To Do
+* QNAP QVR Client
 
 
 

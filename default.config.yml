@@ -64,6 +64,7 @@ homebrew_installed_packages:
   - bash-completion
   - bash-git-prompt
   - bfg # Remove large files or passwords from Git history like git-filter-branch
+  - coreutils
   - eksctl # Requires brew tap weaveworks/tap
   - exiftool #Perl lib for reading and writing EXIF metadata
   - ffmpeg # Play, record, convert, and stream audio and video

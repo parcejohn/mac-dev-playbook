@@ -1,23 +1,18 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"DashDoc",
-		"DocBlockr",
-		"Dockerfile Syntax Highlighting",
-		"Drupal Snippets",
+		"Anaconda",
 		"FileDiffs",
-		"GitHub Flavored Markdown Preview",
-		"Jinja2",
-		"MarkAndMove",
-		"Markdown Preview",
+		"GitGutter",
+		"Indent XML",
+		"MarkdownPreview",
 		"Package Control",
-		"Puppet",
-		"RegReplace",
-		"Sass",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"TrailingSpaces",
-		"Xdebug Client"
+		"SideBarEnhancements",
+		"Theme - Afterglow",
+		"TOML"
 	]
 }
