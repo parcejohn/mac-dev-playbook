@@ -26,7 +26,7 @@ $ sudo chown john -R g+w $(brew --prefix)/*
 ```
 
 ### Install Ansible
-```
+```console
 $ brew install ansible
 ```
 
