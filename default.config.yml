@@ -78,6 +78,7 @@ homebrew_installed_packages:
   - icdiff # Awesome diff -y
   - ioping
   - jq # Lightweight and flexible command-line JSON processor
+  - lastpass-cli
   - libdvdcss # Access DVDs as block devices without the decryption
   - nmap
   - node
